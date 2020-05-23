@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: MyString
+  state: MyString
+  comunity: one
+
+two:
+  user: MyString
+  state: MyString
+  comunity: two
